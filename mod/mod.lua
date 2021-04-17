@@ -1,4 +1,4 @@
-local motras = require('MOTRAS')
+local motras = require('MOTRAS Base Kit')
 
 function data()
     return {
@@ -21,6 +21,6 @@ function data()
             },
         },
         params = {
-            
+
         }
     }
